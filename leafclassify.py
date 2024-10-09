@@ -16,7 +16,7 @@ import base64
 
 # fig = plt.figure()
 
-st.markdown("<h1 style='color: black;'>Maize Disease/Pest Prediction</h1>", unsafe_allow_html=True)
+st.markdown("<h1 style='color: black;'>Maize Disease/Pest Prediction App</h1>", unsafe_allow_html=True)
 #st.markdown("Prediction Platform")
 def set_background(main_bg):  # local image
     # set bg name
